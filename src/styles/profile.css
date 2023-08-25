@@ -1,0 +1,52 @@
+/* UserBasicInfo.css */
+.user-container {
+    background-color: #f4f4f4;
+    border: 5px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    width: 500px; /* Adjust the width as needed */
+    height: 300px;
+  }
+  
+  .user-details {
+    margin-top: 20px;
+  }
+  
+  .company-container{
+    background-color: #f4f4f4;
+    border: 5px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    width: 500px; /* Adjust the width as needed */
+    height: 300px;
+  }
+
+  .orders-container{
+    background-color: #f4f4f4;
+    border: 5px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    width: 75%; /* Adjust the width as needed */
+    height: 600px;
+  }
+
+  .credit-card-container{
+    background-color: #f4f4f4;
+    border: 5px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    width: 400px; /* Adjust the width as needed */
+    height: 200px;
+  }
