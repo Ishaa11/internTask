@@ -64,7 +64,7 @@ function Form() {
       errors.username = "Username is required!";
     } else if (values.username.length < 3) {
       errors.username = "Username must be more than 3 characters";
-
+    }
       if (!values.email) {
         errors.email = "Email is required!";
       } else if (!regex.test(values.email)) {
@@ -130,7 +130,7 @@ function Form() {
       }
 
       return errors;
-    }
+  
   }
     return (
       <div className="container">
